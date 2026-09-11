@@ -3,7 +3,7 @@
 ======================================================================
   ARDUINO MEGA 2560 + 2x L298N + BLUETOOTH HC-06
   ROBOT BÁNH MECANUM ĐIỀU KHIỂN QUA UART3
-  Tác giả: TranDangKhoaTechnology
+  Tác giả: TranDangKhoaAutomation
 ======================================================================
 
 📌 MỤC ĐÍCH:

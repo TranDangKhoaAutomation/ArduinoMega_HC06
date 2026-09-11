@@ -1,7 +1,7 @@
 /*
 ======================================================================
  ARDUINO MEGA 2560 + L298N + BLUETOOTH HC-06
- Robot điều khiển qua UART3 – Code chính thức của TranDangKhoaTechnology
+ Robot điều khiển qua UART3 – Code chính thức của TranDangKhoaAutomation
 ======================================================================
 
 📌 TÍNH NĂNG:
